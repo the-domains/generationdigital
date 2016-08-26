@@ -1,0 +1,14 @@
+layout_spectrum: 0.2859602926764637
+typography_spectrum: 0.6917479226831347
+color:
+  brandStrength: 0.18589934147894382
+  lightness: 0.9281332639511675
+  saturation: 0.25493408273905516
+  rhythmicContrast: 0.6178075368516147
+  brandColors:
+    - '#5A55A3'
+    - '#FEFFFF'
+    - '#D9D8FF'
+    - '#9693C3'
+    - '#C2BEE6'
+name: generation.digital
