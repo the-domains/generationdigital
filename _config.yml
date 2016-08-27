@@ -6,9 +6,9 @@ color:
   saturation: 0.25493408273905516
   rhythmicContrast: 0.6178075368516147
   brandColors:
-    - '#5A55A3'
-    - '#FEFFFF'
-    - '#D9D8FF'
-    - '#9693C3'
-    - '#C2BEE6'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: generation.digital
